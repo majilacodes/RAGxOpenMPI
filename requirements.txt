@@ -1,0 +1,13 @@
+python-dotenv
+langchain
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-huggingface
+chromadb
+mpi4py
+numpy
+torch
+psutil
+sentence-transformers 
+langchain_chroma
